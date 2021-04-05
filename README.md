@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sanjib Kumar Dey
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Frontend Development (Although edging into Backend as well)
 - 🌱 I’m currently learning Vanilla JS 
-- 💞️ I’m looking to collaborate on Frontend JS projects
 - 📫 How to reach me : sanjibdey.dey4@gmail.com
 
 <!---
