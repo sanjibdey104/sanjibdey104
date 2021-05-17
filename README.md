@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanjib Kumar Dey
-- 👀 I’m interested in Frontend Development (expanding into Backend as well)
-- 🌱 I’m currently learning Vanilla JS 
-- 📫 How to reach me : 
+- A Frontend Developer
+- Currently learning Vanilla JS, React, Node JS
+- 📫 Reach me on the below channels : 
 
    * Mail: sanjibdey.dey4@gmail.com
    * Linkedin: [Sanjib Kumar Dey](https://www.linkedin.com/in/sanjib-kumar-dey-359984130/)
