@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Sanjib Kumar Dey
-- A Frontend Developer
-- Currently learning Vanilla JS, React, Node JS
-- 📫 Reach me on the below channels : 
+👋 Hi, I’m Sanjib Kumar Dey
+
+A Frontend Developer
+
+Currently learning Vanilla JS, React
+  
+
+📫 Reach me on the below channels : 
 
    * Mail: sanjibdey.dey4@gmail.com
    * Linkedin: [Sanjib Kumar Dey](https://www.linkedin.com/in/sanjib-kumar-dey-359984130/)
