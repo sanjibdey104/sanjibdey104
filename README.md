@@ -2,7 +2,7 @@
   
 ## 👋 Hi, I’m Sanjib, a front-end web developer from India
 
-<li>🔭 I’m currently working on my <a target="_blank" rel="noopener noreferrer" href="https://portfolio-v1-bay.vercel.app/">portfolio website</a></li>
+<li>🔭 I’m currently working on my <a href="https://portfolio-v1-bay.vercel.app/">portfolio website</a></li>
 <li>🌱 I’m currently learning React JS, NextJS, GraphQL</li>
 
 <br/>
@@ -24,13 +24,13 @@
 
 ### Connect with me: 
 
-<a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/" target="_blank" rel="noopener noreferrer"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> &nbsp;
-<a href="https://twitter.com/Sanjib_104" target="_blank" rel="noopener noreferrer"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"/></a>
+<a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a> &nbsp;
+<a href="https://twitter.com/Sanjib_104"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>
 
 <br/>
 
 
 Icons credit: 
-*<a href="https://worldvectorlogo.com/" target="_blank" rel="noopener noreferrer">World Vector Logo</a>, &nbsp; <a href="https://icons8.com/icon/" target="_blank" rel="noopener noreferrer">Icons by Icons8</a>*
+*<a href="https://worldvectorlogo.com/">World Vector Logo</a>, &nbsp; <a href="https://icons8.com/icon/">Icons by Icons8</a>*
   
 </div>
