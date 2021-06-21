@@ -25,7 +25,8 @@
 ### Connect with me: 
 
 <a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a> &nbsp;
-<a href="https://twitter.com/Sanjib_104"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>
+<a href="https://twitter.com/Sanjib_104"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a> &nbsp;
+<a className="mail" href="mailto:sanjibdey.dey4@gmail.com"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /></a>  
 
 <br/>
 
