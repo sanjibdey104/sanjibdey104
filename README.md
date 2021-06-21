@@ -1,17 +1,35 @@
-👋 Hi, I’m Sanjib Kumar Dey
+<div align="center">
+<h1>👋 Hi, I’m Sanjib, a front-end web developer from India</h1>
 
-A Frontend Developer
+<li>🔭 I’m currently working on my <a target="_blank" rel="noopener noreferrer" href="https://portfolio-v1-bay.vercel.app/">portfolio website</a></li>
+<li>🌱 I’m currently learning React JS, NextJS, GraphQL</li>
 
-Currently learning Vanilla JS, React
+<br/>
+
+### Technologies and tools I've worked with:
+
+<div>
+<img align="center" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> &nbsp;
+<img align="center" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" /> &nbsp;
+<span><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></span> &nbsp;
+<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /> &nbsp;
+<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /> &nbsp;
+<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" /> &nbsp;
+<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> &nbsp;
+<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" />
+</div>
+
+<br/>
+
+### Connect with me: 
+
+<a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/" target="_blank" rel="noopener noreferrer"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> &nbsp;
+<a href="https://twitter.com/Sanjib_104" target="_blank" rel="noopener noreferrer"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"/></a>
+
+<br/>
+
+
+Icons credit: 
+*<a href="https://worldvectorlogo.com/" target="_blank" rel="noopener noreferrer">World Vector Logo</a>, &nbsp; <a href="https://icons8.com/icon/" target="_blank" rel="noopener noreferrer">Icons by Icons8</a>*
   
-
-📫 Reach me on the below channels : 
-
-   * Mail: sanjibdey.dey4@gmail.com
-   * Linkedin: [Sanjib Kumar Dey](https://www.linkedin.com/in/sanjib-kumar-dey-359984130/)
-   * Twitter: [@Sanjib_104](https://twitter.com/Sanjib_104)
-
-<!---
-sanjibdey104/sanjibdey104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
