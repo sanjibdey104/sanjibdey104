@@ -1,5 +1,6 @@
 <div align="center">
-<h1>👋 Hi, I’m Sanjib, a front-end web developer from India</h1>
+  
+## 👋 Hi, I’m Sanjib, a front-end web developer from India
 
 <li>🔭 I’m currently working on my <a target="_blank" rel="noopener noreferrer" href="https://portfolio-v1-bay.vercel.app/">portfolio website</a></li>
 <li>🌱 I’m currently learning React JS, NextJS, GraphQL</li>
