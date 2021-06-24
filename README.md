@@ -2,7 +2,7 @@
   
 ## 👋 Hi, I’m Sanjib, a front-end web developer from India
 
-<li>🔭 I’m currently working on my <a href="https://portfolio-v1-bay.vercel.app/">portfolio website</a></li>
+<li>🔭 I’m currently working on my <a href="https://sanjibkumardey.vercel.app/">portfolio website</a></li>
 <li>🌱 I’m currently learning React JS, NextJS, GraphQL</li>
 
 <br/>
