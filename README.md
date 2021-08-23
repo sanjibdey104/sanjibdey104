@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   
-## 👋 Hi, I’m Sanjib, a front-end web developer from India
+<h2>🙏 Namaste, I’m Sanjib, a front-end web developer from India</h2>
 
 <li>🔭 I’m currently working on my <a href="https://sanjibkumardey.vercel.app/">portfolio website</a></li>
-<li>🌱 I’m currently learning React JS, NextJS, GraphQL</li>
+<li>🌱 I’m currently learning React JS, <a href="https://nextjs.org/">Next.js</a>, <a href="https://graphql.org/">GraphQL</a></li>
 
 <br/>
 
@@ -24,14 +24,20 @@
 
 ### Connect with me: 
 
-<a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a> &nbsp;
-<a href="https://twitter.com/Sanjib_104"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a> &nbsp;
-<a className="mail" href="mailto:sanjibdey.dey4@gmail.com"><img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /></a>  
+<a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/">
+  <img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  </a> &nbsp;
+<a href="https://twitter.com/Sanjib_104">
+  <img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />
+  </a> &nbsp;
+<a className="mail" href="mailto:sanjibdey.dey4@gmail.com">
+  <img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+  </a> &nbsp;
 
 <br/>
-
-
+<br/>
+  
 Icons credit: 
-*<a href="https://worldvectorlogo.com/">World Vector Logo</a>, &nbsp; <a href="https://icons8.com/icon/">Icons by Icons8</a>*
+*<a href="https://worldvectorlogo.com/">World Vector Logo</a>, <a href="https://icons8.com/icon/">Icons by Icons8</a>*
   
 </div>
