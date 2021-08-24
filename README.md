@@ -2,8 +2,9 @@
   
 <h2>🙏 Namaste, I’m Sanjib, a front-end web developer from India</h2>
 
-<li>🔭 I’m currently working on my <a href="https://sanjibkumardey.vercel.app/">portfolio website</a></li>
-<li>🌱 I’m currently learning React JS, <a href="https://nextjs.org/">Next.js</a>, <a href="https://graphql.org/">GraphQL</a></li>
+- 🔭 I’m currently working on my [portfolio website](https://sanjibkumardey.vercel.app/)
+- 🌱 I’m currently learning React JS, [Next.JS](https://nextjs.org/), [GraphQL](https://graphql.org/)
+- Ask me anything [here](https://github.com/sanjibdey104/sanjibdey104/issues)
 
 <br/>
 
