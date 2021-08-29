@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on my [portfolio website](https://sanjibkumardey.vercel.app/)
 - 🌱 I’m currently learning [Next.JS](https://nextjs.org/), [GraphQL](https://graphql.org/)
+- ✍ Documenting my learnings at [webdevref](https://webdevref.vercel.app/)
 - Ask me anything [here](https://github.com/sanjibdey104/sanjibdey104/issues)
 
 <br/>
