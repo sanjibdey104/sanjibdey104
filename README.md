@@ -3,7 +3,7 @@
 <h2>🙏 Namaste, I’m Sanjib, a front-end web developer from India</h2>
 
 - 🔭 I’m currently working on my [portfolio website](https://sanjibkumardey.vercel.app/)
-- 🌱 I’m currently learning React JS, [Next.JS](https://nextjs.org/), [GraphQL](https://graphql.org/)
+- 🌱 I’m currently learning [Next.JS](https://nextjs.org/), [GraphQL](https://graphql.org/)
 - Ask me anything [here](https://github.com/sanjibdey104/sanjibdey104/issues)
 
 <br/>
