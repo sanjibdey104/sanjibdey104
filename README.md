@@ -9,7 +9,7 @@
 
 <br/>
 
-### Technologies and tools I've worked with:
+### tech and tools I've worked with:
 
 <div>
 <img align="center" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> &nbsp;
@@ -18,8 +18,7 @@
 <img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /> &nbsp;
 <img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /> &nbsp;
 <img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" /> &nbsp;
-<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> &nbsp;
-<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" />
+<img align="center" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 </div>
 
 <br/>
