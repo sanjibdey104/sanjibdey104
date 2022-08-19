@@ -9,10 +9,9 @@
   </blockquote>
   
 - ⌚ Currently:
-    - Brushing up vanilla JS
-    - Updating portfolio projects
-    - Learning DSA basics
-    - All in all ... keeping it busy
+    - Working as a front-end developer at [Qoruz](https://qoruz.com/)
+    - Re-learning the fundamentals and expanding upon it.
+    
 - ✍ Documenting my learnings at [webdevref](https://webdevref.vercel.app/)
 - 📣 Ask me anything [here](https://github.com/sanjibdey104/sanjibdey104/issues)
 - 🦄 Checkout my [portfolio](https://sanjibkumardey.vercel.app/)
