@@ -1,16 +1,9 @@
 <div align="left">
   
-<h2>🙏 Namaste, I’m Sanjib - a frontend developer from India</h2>
-
-- 👨‍💻 Working on becoming a better developer 
-  
-  <blockquote>
-    🥊 One step at a time. One Punch at a time. One round at a time.
-  </blockquote>
+<h2>🙏 Namaste, I’m Sanjib</h2>
   
 - ⌚ Currently:
     - Working as a front-end developer at [Qoruz](https://qoruz.com/)
-    - Re-learning the fundamentals and expanding upon it.
     
 - ✍ Documenting my learnings at [webdevref](https://webdevref.vercel.app/)
 - 📣 Ask me anything [here](https://github.com/sanjibdey104/sanjibdey104/issues)
