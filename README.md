@@ -2,9 +2,7 @@
   
 <h2>🙏 Namaste, I’m Sanjib</h2>
   
-- ⌚ Currently:
-    - Working as a front-end developer at [Qoruz](https://qoruz.com/)
-    
+- ⌚ Currently working as a front-end developer at [Qoruz](https://qoruz.com/)
 - ✍ Documenting my learnings at [webdevref](https://webdevref.vercel.app/)
 - 📣 Ask me anything [here](https://github.com/sanjibdey104/sanjibdey104/issues)
 - 🦄 Checkout my [portfolio](https://sanjibkumardey.vercel.app/)
