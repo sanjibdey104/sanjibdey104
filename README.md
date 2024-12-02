@@ -9,21 +9,12 @@
 
 <br/>
 
-### 🧰 Tech and tools I've worked with:
-
-<div>
-<img align="center" width="32px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> &nbsp;
-<img align="center" width="32px" src="https://img.icons8.com/color/48/000000/css3.png" /> &nbsp;
-<span><img align="center" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></span> &nbsp;
-<img align="center" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /> &nbsp;
-<img align="center" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /> &nbsp;
-<img align="center" width="26px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" /> &nbsp;
-<img align="center" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-</div>
+🧰 Tech and tools I've worked with:
+HTML, CSS, SASS, JavaScript, TypeScript, NextJS, GraphQL 
 
 <br/>
 
-### 🧲 Connect with me: 
+🧲 Connect with me: 
 
 <a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/">
   <img align="center" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
