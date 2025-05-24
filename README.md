@@ -9,16 +9,5 @@
 
 🧰 Tech and tools:
 HTML, CSS, SASS, JavaScript, TypeScript, NextJS, GraphQL 
-
-<br/>
-
-🧲 Connect with me: 
-
-<a href="https://www.linkedin.com/in/sanjib-kumar-dey-359984130/">
-  LinkedIn
-</a> &nbsp;
-<a className="mail" href="mailto:sanjibdey.dey4@gmail.com">
-  Email
-</a> &nbsp;
   
 </div>
