@@ -2,7 +2,7 @@
   
 <h2>🙏 Namaste, I’m Sanjib</h2>
   
-⌚ Frontend Developer at [Qoruz](https://qoruz.com/)
+⌚ Frontend Developer at [Qoruz](https://qoruz.com/) <br/>
 🦄 [Checkout my Portfolio](https://sanjibkumardey.vercel.app/)
 
 <br/>
