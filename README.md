@@ -7,7 +7,10 @@
 
 <br/>
 
-🧰 Tech and tools:
+🧰 Tech, tools, skills: 
+
+<p>
 HTML, CSS, SASS, JavaScript, TypeScript, NextJS, GraphQL, Chrome Extension Development (Manifest v3, Chrome APIs)
+</p>
   
 </div>
