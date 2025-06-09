@@ -8,6 +8,6 @@
 <br/>
 
 🧰 Tech and tools:
-HTML, CSS, SASS, JavaScript, TypeScript, NextJS, GraphQL 
+HTML, CSS, SASS, JavaScript, TypeScript, NextJS, GraphQL, Chrome Extension Development (Manifest v3, Chrome APIs)
   
 </div>
